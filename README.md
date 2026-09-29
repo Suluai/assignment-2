@@ -17,7 +17,7 @@ ESP32 · Amperka Octoliner · ZK-5AD motor driver · JGB37-520 DC motor · 7.4�
 
 Motor → ZK-5AD MOTOA. Battery → ZK-5AD VCC/GND.
 
-![Wiring](docs/wiring_diagram.png)
+
 
 ## ROS 2 nodes
 - `esp32_node` (ESP32, micro-ROS) – publishes `/octoliner/raw`, subscribes `/cmd_vel`
